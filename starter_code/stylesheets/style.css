@@ -8,3 +8,28 @@ paragraph yellow: #ECB12F
 links blue: #2E71A6
 footer links grey: #454245
 */
+
+    nav {
+        background-color: purple
+    }
+.image {width: 90%;
+    
+
+}
+.logo {max-width: 25%;
+
+}
+.tamaño {height: 100px;}
+
+@media (min-width:786px){
+
+    nav {
+        background-color: blue
+    }
+}
+@media (min-width:1000px){
+
+    nav {
+        background-color: red
+    }
+}
